@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Elysian Grace Events — Gracefully Curated Celebrations">
+  <defs>
+    <linearGradient id="egg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#CBAA74"/><stop offset=".5" stop-color="#B4915B"/><stop offset="1" stop-color="#96763F"/>
+    </linearGradient>
+  </defs>
+  <circle cx="300" cy="300" r="299" fill="#FBF7F0"/>
+  <circle cx="300" cy="300" r="290" fill="none" stroke="#B4915B" stroke-width="1" stroke-opacity=".45"/>
+  <circle cx="300" cy="300" r="281" fill="none" stroke="#B4915B" stroke-width="1.4" stroke-opacity=".6"/>
+  <g font-family="Didot,'Bodoni 72',Georgia,'Times New Roman',serif" text-anchor="middle">
+    <text x="218" y="270" font-size="216" fill="url(#egg)">I</text>
+    <text x="388" y="270" font-size="216" fill="url(#egg)">L</text>
+    <text x="301" y="284" font-size="176" fill="#191612" font-family="'Snell Roundhand','Apple Chancery',cursive" font-style="italic">&amp;</text>
+    <text x="300" y="370" font-size="34" fill="url(#egg)" textLength="462" lengthAdjust="spacing">ELYSIAN GRACE EVENTS</text>
+    <text x="300" y="430" font-size="15.5" fill="#4A4239" textLength="352" lengthAdjust="spacing">GRACEFULLY CURATED CELEBRATIONS</text>
+  </g>
+  <g stroke="#B4915B" stroke-width="1" stroke-opacity=".75">
+    <line x1="176" y1="396" x2="276" y2="396"/><line x1="324" y1="396" x2="424" y2="396"/>
+  </g>
+  <g fill="#B4915B" transform="translate(300 396)">
+    <path d="M0 -7 L6 0 L0 7 L-6 0 Z"/><path d="M-15 0 L-9.5 -4 L-9.5 4 Z"/><path d="M15 0 L9.5 -4 L9.5 4 Z"/>
+  </g>
+  <g transform="translate(300 492)"><g><path d="M-20 4 C -62 -12 -108 -14 -146 8" fill="none" stroke="#B4915B" stroke-width="1.4" stroke-linecap="round"/><g fill="#DCC9A5" fill-opacity=".9" stroke="#B4915B" stroke-width=".85" stroke-linejoin="round"><path d="M0 0 C 9.9 -5.8 21.1 -5.8 31.0 0 C 21.1 5.8 9.9 5.8 0 0 Z" transform="translate(-30.2 0.4) rotate(-200.2)"/><path d="M0 0 C 9.9 -5.8 21.1 -5.8 31.0 0 C 21.1 5.8 9.9 5.8 0 0 Z" transform="translate(-30.2 0.4) rotate(-124.2)"/><path d="M0 0 C 9.3 -5.4 19.7 -5.4 29.0 0 C 19.7 5.4 9.3 5.4 0 0 Z" transform="translate(-51.8 -5.2) rotate(-207.0)"/><path d="M0 0 C 9.3 -5.4 19.7 -5.4 29.0 0 C 19.7 5.4 9.3 5.4 0 0 Z" transform="translate(-51.8 -5.2) rotate(-131.0)"/><path d="M0 0 C 8.6 -5.1 18.3 -5.1 26.9 0 C 18.3 5.1 8.6 5.1 0 0 Z" transform="translate(-73.6 -8.0) rotate(-214.5)"/><path d="M0 0 C 8.6 -5.1 18.3 -5.1 26.9 0 C 18.3 5.1 8.6 5.1 0 0 Z" transform="translate(-73.6 -8.0) rotate(-138.5)"/><path d="M0 0 C 8.0 -4.7 16.9 -4.7 24.9 0 C 16.9 4.7 8.0 4.7 0 0 Z" transform="translate(-95.3 -7.7) rotate(137.0)"/><path d="M0 0 C 8.0 -4.7 16.9 -4.7 24.9 0 C 16.9 4.7 8.0 4.7 0 0 Z" transform="translate(-95.3 -7.7) rotate(213.0)"/><path d="M0 0 C 7.3 -4.3 15.5 -4.3 22.9 0 C 15.5 4.3 7.3 4.3 0 0 Z" transform="translate(-116.4 -4.1) rotate(127.4)"/><path d="M0 0 C 7.3 -4.3 15.5 -4.3 22.9 0 C 15.5 4.3 7.3 4.3 0 0 Z" transform="translate(-116.4 -4.1) rotate(203.4)"/><path d="M0 0 C 6.7 -3.9 14.2 -3.9 20.8 0 C 14.2 3.9 6.7 3.9 0 0 Z" transform="translate(-136.7 3.2) rotate(117.1)"/><path d="M0 0 C 6.7 -3.9 14.2 -3.9 20.8 0 C 14.2 3.9 6.7 3.9 0 0 Z" transform="translate(-136.7 3.2) rotate(193.1)"/><path d="M0 0 C 7.0 -4.4 15.0 -4.4 22.0 0 C 15.0 4.4 7.0 4.4 0 0 Z" transform="translate(-146.0 8.0) rotate(149.9)"/></g></g><g transform="scale(-1,1)"><g><path d="M-20 4 C -62 -12 -108 -14 -146 8" fill="none" stroke="#B4915B" stroke-width="1.4" stroke-linecap="round"/><g fill="#DCC9A5" fill-opacity=".9" stroke="#B4915B" stroke-width=".85" stroke-linejoin="round"><path d="M0 0 C 9.9 -5.8 21.1 -5.8 31.0 0 C 21.1 5.8 9.9 5.8 0 0 Z" transform="translate(-30.2 0.4) rotate(-200.2)"/><path d="M0 0 C 9.9 -5.8 21.1 -5.8 31.0 0 C 21.1 5.8 9.9 5.8 0 0 Z" transform="translate(-30.2 0.4) rotate(-124.2)"/><path d="M0 0 C 9.3 -5.4 19.7 -5.4 29.0 0 C 19.7 5.4 9.3 5.4 0 0 Z" transform="translate(-51.8 -5.2) rotate(-207.0)"/><path d="M0 0 C 9.3 -5.4 19.7 -5.4 29.0 0 C 19.7 5.4 9.3 5.4 0 0 Z" transform="translate(-51.8 -5.2) rotate(-131.0)"/><path d="M0 0 C 8.6 -5.1 18.3 -5.1 26.9 0 C 18.3 5.1 8.6 5.1 0 0 Z" transform="translate(-73.6 -8.0) rotate(-214.5)"/><path d="M0 0 C 8.6 -5.1 18.3 -5.1 26.9 0 C 18.3 5.1 8.6 5.1 0 0 Z" transform="translate(-73.6 -8.0) rotate(-138.5)"/><path d="M0 0 C 8.0 -4.7 16.9 -4.7 24.9 0 C 16.9 4.7 8.0 4.7 0 0 Z" transform="translate(-95.3 -7.7) rotate(137.0)"/><path d="M0 0 C 8.0 -4.7 16.9 -4.7 24.9 0 C 16.9 4.7 8.0 4.7 0 0 Z" transform="translate(-95.3 -7.7) rotate(213.0)"/><path d="M0 0 C 7.3 -4.3 15.5 -4.3 22.9 0 C 15.5 4.3 7.3 4.3 0 0 Z" transform="translate(-116.4 -4.1) rotate(127.4)"/><path d="M0 0 C 7.3 -4.3 15.5 -4.3 22.9 0 C 15.5 4.3 7.3 4.3 0 0 Z" transform="translate(-116.4 -4.1) rotate(203.4)"/><path d="M0 0 C 6.7 -3.9 14.2 -3.9 20.8 0 C 14.2 3.9 6.7 3.9 0 0 Z" transform="translate(-136.7 3.2) rotate(117.1)"/><path d="M0 0 C 6.7 -3.9 14.2 -3.9 20.8 0 C 14.2 3.9 6.7 3.9 0 0 Z" transform="translate(-136.7 3.2) rotate(193.1)"/><path d="M0 0 C 7.0 -4.4 15.0 -4.4 22.0 0 C 15.0 4.4 7.0 4.4 0 0 Z" transform="translate(-146.0 8.0) rotate(149.9)"/></g></g></g><g fill="none" stroke="#B4915B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 -4 C -15 -25 -46 -26 -49 -7 C -51 8 -30 14 -14 4 C -6 -1 -2 -3 0 -4 Z"/>
+    <path d="M0 -4 C 15 -25 46 -26 49 -7 C 51 8 30 14 14 4 C 6 -1 2 -3 0 -4 Z"/>
+    <path d="M-4 3 C -14 23 -25 36 -43 46"/>
+    <path d="M4 3 C 14 23 25 36 43 46"/>
+    <path d="M-43 46 l-10 -7 M43 46 l10 -7"/>
+  </g>
+  <circle cx="0" cy="-3" r="4.2" fill="#B4915B"/></g>
+</svg>
